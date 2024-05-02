@@ -1,0 +1,43 @@
+msgctxt "prof_desc_female"
+msgid "Apprentice"
+msgstr "弟子"
+
+msgctxt "prof_desc_male"
+msgid "Apprentice"
+msgstr "弟子"
+
+msgctxt "prof_desc_female"
+msgid ""
+"You were an aspiring student of a well-learned master of the mysterious "
+"arts.  Sadly, you had only just begun your apprenticeship when your master "
+"was claimed by the end of the world."
+msgstr ""
+"師匠から神秘的な技術を操る方法を意欲的に学んでいました。師匠が世界の終焉に飲"
+"み込まれてしまったので、残念ながらこれからは自力で学ぶしかありません。"
+
+msgctxt "prof_desc_male"
+msgid ""
+"You were an aspiring student of a well-learned master of the mysterious "
+"arts.  Sadly, you had only just begun your apprenticeship when your master "
+"was claimed by the end of the world."
+msgstr ""
+"師匠から神秘的な技術を操る方法を意欲的に学んでいました。師匠が世界の終焉に飲"
+"み込まれてしまったので、残念ながらこれからは自力で学ぶしかありません。"
+
+msgctxt "prof_desc_female"
+msgid "Alchemist"
+msgstr "錬金術士"
+
+msgctxt "prof_desc_male"
+msgid "Alchemist"
+msgstr "錬金術士"
+
+
+msgctxt "prof_desc_female"
+msgid ""
+"You studied under a well-learned scholar, a seeker of the fabled elixir of "
+"life.  Despite the tutelage of a master alchemist, you never got any closer "
+"to finishing the great work."
+msgstr ""
+"生命に関する伝説の霊薬を探す高名な学者の下で修業していました。そんな錬金術の"
+"専門家が指導したにもかかわらず、まだ一度も成果を上げたことがありません。"

@@ -1,0 +1,7 @@
+msgid ""
+msgstr ""
+"私用翻訳ファイル。改変自由・著作権放棄"
+"翻訳者:我猫"
+"連絡:sunekosuri474@gmail.com"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
