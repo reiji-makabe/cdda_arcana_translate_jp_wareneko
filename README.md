@@ -1,0 +1,1 @@
+# cdda_arcana_translate_jp_wareneko
