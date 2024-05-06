@@ -1,0 +1,153 @@
+msgid "essence"
+msgid_plural "essence"
+msgstr[0] "エッセンス"
+
+msgid ""
+"A strange glowing mote of wispy vapor.  It gives off a soothing warmth and "
+"feels surprisingly solid, almost alive even."
+msgstr ""
+"怪しく光る湿り気を帯びた破片です。ほのかに暖かく、非常に硬く、まるで生物のよ"
+"うです。"
+
+msgid "blood essence"
+msgid_plural "blood essence"
+msgstr[0] "エッセンス(血)"
+
+msgid "A strange glowing mote of wispy vapor, drained from a living creature."
+msgstr "化け物から排出された、怪しく光る湿り気を帯びた破片です。"
+
+msgid "dull essence"
+msgid_plural "dull essence"
+msgstr[0] "エッセンス(濁)"
+
+msgid ""
+"A dark, powdery bit of strange essence, formed from destructively "
+"\"consecrating\" a magic item."
+msgstr ""
+"粉末状の奇妙な昏いエッセンスです。魔道具を破壊的な方法で「聖化」することで生"
+"成されます。"
+
+msgid "crystallized essence"
+msgid_plural "crystallized essence"
+msgstr[0] "エッセンス(結晶)"
+
+msgid ""
+"A tiny sliver of brilliant crystal, formed from otherworldly essence to fuel "
+"extremely powerful magic."
+msgstr ""
+"非常に強力な魔術の源となる、異世界の精髄から作り出した鮮やかな結晶の欠片で"
+"す。"
+
+msgid "displacement surge power"
+msgid_plural "displacement surge powers"
+msgstr[0] "変位サージパワー"
+
+msgid "exotic arrow"
+msgid_plural "exotic arrows"
+msgstr[0] "矢(異国風)"
+
+msgid ""
+"A simple fletched wooden arrow shaft, with an arrowhead carved from some "
+"strange material.  Not magical on its own, but can be made into more "
+"powerful ammunition.  Stands a very good chance of remaining intact once "
+"fired."
+msgstr ""
+"いくつかの奇妙な材料から彫られた矢じりを備えた、シンプルな木製の矢です。これ"
+"自体に効果はありませんが、これを使ってより強力な矢にすることができます。放っ"
+"た矢は高確率で再利用できます。"
+
+msgid "exotic bolt"
+msgid_plural "exotic bolts"
+msgstr[0] "ボルト(異国風)"
+
+msgid ""
+"A crossbow bolt radiating strange energy, the head carved from some strange "
+"material.  Not magical on its own, but can be made into more powerful "
+"ammunition.  Stands a very good chance of remaining intact once fired."
+msgstr ""
+"いくつかの奇妙な材料から彫られたクロスボウのボルトです。これ自体に効果はあり"
+"ませんが、これを使ってより強力なボルトにすることができます。放ったボルトは高"
+"確率で再利用できます。"
+
+msgid "searing exotic arrow"
+msgid_plural "searing exotic arrows"
+msgstr[0] "矢(灼熱/異国風)"
+
+msgid "An arrow radiating strange energy, tipped with a sliver of otherworldly material.  Capable of immolating targets on impact.  Stands a very good chance of remaining intact once fired."
+msgstr "奇妙なエネルギーを放射する矢です。異世界の素材の断片が先端に付いています。着弾時に標的を炎上させることができ、非常に高い確率で再利用できます。"
+
+msgid "searing exotic bolt"
+msgid_plural "searing exotic bolts"
+msgstr[0] "ボルト(灼熱/異国風)"
+
+msgid "A simple fletched wooden crossbow bolt, tipped with a sliver of otherworldly material.  Capable of immolating targets on impact.  Stands a very good chance of remaining intact once fired."
+msgstr "羽根のついたシンプルな木のボルトです。異世界の素材の断片が先端に付いています。着弾時に標的を炎上させることができ、非常に高い確率で再利用できます。"
+
+msgid "wintry exotic arrow"
+msgid_plural "wintry exotic arrows"
+msgstr[0] "矢(極寒/異国風)"
+
+msgid "An arrow radiating strange energy, tipped with a sliver of otherworldly material.  Capable of stunning targets on impact.  Stands a very good chance of remaining intact once fired."
+msgstr "奇妙なエネルギーを放射する矢です。異世界の素材の断片が先端に付いています。着弾時に標的を気絶させることができ、非常に高い確率で再利用できます。"
+
+msgid "wintry exotic bolt"
+msgid_plural "wintry exotic bolts"
+msgstr[0] "ボルト(極寒/異国風)"
+
+msgid "A simple fletched wooden crossbow bolt, tipped with a sliver of otherworldly material.  Capable of stunning targets on impact.  Stands a very good chance of remaining intact once fired."
+msgstr "羽根のついたシンプルな木のボルトです。異世界の素材の断片が先端に付いています。着弾時に標的を気絶させることができ、非常に高い確率で再利用できます。"
+
+msgid "earthen exotic arrow"
+msgid_plural "earthen exotic arrows"
+msgstr[0] "矢(土/異国風)"
+
+msgid "An arrow radiating strange energy, tipped with a sliver of otherworldly material.  Capable of slowing and corroding targets on impact, leaving acid in its wake.  Stands a very good chance of remaining intact once fired."
+msgstr "奇妙なエネルギーを放射する矢です。異世界の素材の断片が先端に付いています。着弾時に標的を減速・腐食させることができ、酸の軌跡を残します。非常に高い確率で再利用できます。"
+
+msgid "earthen exotic bolt"
+msgid_plural "earthen exotic bolts"
+msgstr[0] "ボルト(土/異国風)"
+
+msgid "A simple fletched wooden crossbow bolt, tipped with a sliver of otherworldly material.  Capable of slowing and corroding targets on impact, leaving acid in its wake.  Stands a very good chance of remaining intact once fired."
+msgstr "羽根のついたシンプルな木のボルトです。異世界の素材の断片が先端に付いています。着弾時に標的を減速・腐食させることができ、酸の軌跡を残します。非常に高い確率で再利用できます。"
+
+msgid "thunderous exotic arrow"
+msgid_plural "thunderous exotic arrows"
+msgstr[0] "矢(雷/異国風)"
+
+msgid "An arrow radiating strange energy, tipped with a sliver of otherworldly material.  Capable of blinding targets on impact, leaving lightning in its wake.  Stands a very good chance of remaining intact once fired."
+msgstr "奇妙なエネルギーを放射する矢です。異世界の素材の断片が先端に付いています。着弾時に標的を盲目にし、雷の軌跡を残します。非常に高い確率で再利用できます。"
+
+msgid "thunderous exotic bolt"
+msgid_plural "thunderous exotic bolts"
+msgstr[0] "ボルト(雷/異国風)"
+
+msgid "A simple fletched wooden crossbow bolt, tipped with a sliver of otherworldly material.  Capable of blinding targets on impact, leaving lightning in its wake.  Stands a very good chance of remaining intact once fired."
+msgstr "羽根のついたシンプルな木のボルトです。異世界の素材の断片が先端に付いています。着弾時に標的を盲目にし、雷の軌跡を残します。非常に高い確率で再利用できます。"
+
+msgid "recharge"
+msgstr "充填"
+
+msgid "Residual energy flowing through a primitive magic item."
+msgstr "原始的な魔法のアイテムを流れるエネルギーです。"
+
+msgid "purifying 00 shot"
+msgid_plural "purifying 00 shots"
+msgstr[0] "弾薬(12ga/浄化)"
+
+msgid "A handloaded shotgun shell, loaded with precious metals.  The addition of consecrated essence enhances its impact and focuses it into a burst of white-hot light when fired.  Immolates targets on impact and bypasses mundane armor, while leaving behind a dazzling glow."
+msgstr "貴金属を装填したショットガンシェルです。聖別されたエッセンスを加えることで衝撃を強化しており、発射時に白熱した光を放ちます。着弾と同時に標的を焼き尽くし、まばゆい光を放ちながら一般的な装甲をすり抜けます。"
+
+msgid "purifying paper shot cartridge"
+msgid_plural "purifying paper shot cartridges"
+msgstr[0] "紙薬莢(浄化)"
+
+msgid "A black powder paper cartridge, loaded with precious metals.  The addition of consecrated essence enhances its impact and focuses it into a burst of white-hot light when fired.  Immolates targets on impact and bypasses mundane armor, while leaving behind a dazzling glow."
+msgstr "貴金属を装填した黒色火薬の紙製薬莢です。聖別されたエッセンスを加えることで衝撃を強化しており、発射時に白熱した光を放ちます。着弾と同時に標的を焼き尽くし、まばゆい光を放ちながら一般的な装甲をすり抜けます。"
+
+msgid "purifying blunderbuss shot"
+msgid_plural "purifying blunderbuss shots"
+msgstr[0] "弾薬(ラッパ銃/浄化)"
+
+msgid "A prepared blunderbuss shot, loaded with precious metals.  The addition of consecrated essence enhances its impact and focuses it into a burst of white-hot light when fired.  Immolates targets on impact and bypasses mundane armor, while leaving behind a dazzling glow."
+msgstr "貴金属のペレットを詰めたラッパ銃用弾薬です。聖別されたエッセンスを加えることで衝撃を強化しており、発射時に白熱した光を放ちます。着弾と同時に標的を焼き尽くし、まばゆい光を放ちながら一般的な装甲をすり抜けます。"

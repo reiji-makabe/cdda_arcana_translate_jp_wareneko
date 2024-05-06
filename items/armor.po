@@ -1,0 +1,156 @@
+msgid "aura of dragon's blood"
+msgid_plural "auras of dragon's blood"
+msgstr[0] "竜血のオーラ"
+
+msgid "A strange radiance permeating your body, increasing your strength and reducing physical damage."
+msgstr "体内に不思議な輝きが浸透し、体力が増し、身体のダメージが軽減されます。"
+
+msgid "ivory halo"
+msgid_plural "ivory halos"
+msgstr[0] "象牙の光輪"
+
+msgid "A strange radiance permeating your body, granting you sight beyond sight."
+msgstr "奇妙な光が全身を包み、見えないものを見通す力を与えます。"
+
+msgid "sunstone halo"
+msgid_plural "sunstone halo"
+msgstr[0] "太陽石の光輪"
+
+msgid "A strange radiance permeating your body, repelling nearby attackers away from you."
+msgstr "奇妙な輝きが全身を包み、近くの攻撃者を遠ざけます。"
+
+msgid "%2$s is suddenly forced back!"
+msgstr "%2$sは突如として後退させられた!"
+
+msgid "%2$s is suddenly forced away from %1$s!"
+msgstr "%2$sは突如として%1$sから引き剥がされた!"
+
+msgid "obsidian halo"
+msgid_plural "obsidian halos"
+msgstr[0] "黒曜石の光輪"
+
+msgid "A strange radiance permeating your body, blinding attackers with otherworldly magic."
+msgstr "奇妙な光が全身を包み、異世界の魔法で攻撃者を盲目にします。"
+
+msgid "Wisps of shadow lash out at %2$s"
+msgstr "影のさざなみが%2$sに突き刺さる!"
+
+msgid "Wisps of shadow jump from %1$s to %2$s."
+msgstr "影のさざなみが%1$sから%2$sへと飛ぶ!"
+
+msgid "horned halo"
+msgstr "有角の光輪"
+
+msgid ""
+"A strange radiance permeating your body, granting you a life-draining touch."
+msgstr "奇妙な光が全身を包み、接触した相手の生命力を奪います。"
+
+msgid "shrouded aura"
+msgid_plural "shrouded auras"
+msgstr[0] "障壁のオーラ"
+
+msgid "A strange radiance permeating your body, obscuring your life force from the undead.  You will be invisible to them, but not to other creatures, and they will still be able to hear and smell you."
+msgstr ""
+"体内に不思議な輝きが浸透し、アンデッドからあなたの生命力を覆い隠します。アン"
+"デッドからは不可視になりますが、他の生物からは見えてしまいますし、依然として"
+"あなたの匂いや音は消えていません。"
+
+msgid "faded halo"
+msgid_plural "faded halo"
+msgstr[0] "色褪せた光輪"
+
+msgid "A strange radiance permeating your body, hiding your aura from otherworldly creatures in exchange for being more visible to wildlife and the undead."
+msgstr ""
+"奇妙な輝きが体に染み込み、野生動物やアンデッドから注目されやすくなる代わり"
+"に、異世界の生物からオーラを隠すことができます。"
+
+msgid "elusive aura"
+msgid_plural "elusive auras"
+msgstr[0] "神出鬼没のオーラ"
+
+msgid "A strange radiance permeating your body, enhancing your movement and reflexes."
+msgstr "不思議な輝きが体に染み渡り、動きや反射神経が強化されます。"
+
+msgid "guardian aura"
+msgid_plural "guardian auras"
+msgstr[0] "守護のオーラ"
+
+msgid "A strange radiance permeating your body, adding to your defenses."
+msgstr "奇妙な輝きがあなたの体に浸透し、防御力を高めます。"
+
+msgid "triffid garland"
+msgstr "トリフィドの花輪"
+
+msgid "A wreath of brightly-colored flowers from another world, worn around the neck.  Aside from the otherworldly beauty afforded by its petals, it has no practical use."
+msgstr ""
+"異界の鮮やかな花で作られた、首に掛ける花輪です。その花びらはこの世の物とは思"
+"えないほどの美しさですが、特に実用性はありません。"
+
+msgid "exotic amulet"
+msgstr "異国風のお守り"
+
+msgid "A makeshift necklace with a single gem, a charm worked from some manner of unnatural material."
+msgstr ""
+"一粒の宝玉を吊るした手作りのネックレスです。宝玉は不思議な素材で作られてお"
+"り、お守りの効果を持っています。"
+
+msgid "iridescent brooch"
+msgid_plural "iridescent brooches"
+msgstr[0] "玉虫色のブローチ"
+
+msgid "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl."
+msgstr ""
+"どことなく真珠のような色をした奇妙な素材を加工して作った、円盤状のブローチで"
+"す。"
+
+msgid "essence gem"
+msgstr "エッセンスの至宝"
+
+msgid "A strange reddish stone set in a golden talisman, worn around the neck.  It is specialized for storing a considerable reserve of magical essence, and can be used to reload magical weapons more quickly if worn."
+msgstr "赤色の宝石がはめ込まれた、首に掛けられる黄金製のお守りです。大量のエッセンスを保存することに特化しており、身につけていると魔法の武器をより素早くリロードできます。"
+
+msgid "blood essence gem"
+msgid_plural "blood essence gems"
+msgstr[0] "血のエッセンスの宝玉"
+
+msgid "A strange yellow stone set in a silver talisman, worn around the neck.  It is specialized for storing a considerable reserve of magical essence, and can be used to reload magical weapons more quickly if worn."
+msgstr "黄色の宝石が埋め込まれた、首に掛けられる白銀製のお守りです。大量のエッセンスを保存することに特化しており、身につけていると魔法の武器をより素早くリロードできます。"
+
+msgid "dull essence gem"
+msgid_plural "dull essence gems"
+msgstr[0] "濁ったエッセンスの宝玉"
+
+msgid "A strange blue stone set in a copper talisman, worn around the neck.  It is specialized for storing a considerable reserve of dull essence, and can be used to reload magical weapons more quickly if worn."
+msgstr "青色の宝石が埋め込まれた、首に掛けられる銅製のお守りです。大量のエッセンスを保存することに特化しており、身につけていると魔法の武器をより素早くリロードできます。"
+
+msgid "crystallized essence gem"
+msgid_plural "crystallized essence gems"
+msgstr[0] "結晶したエッセンスの宝玉"
+
+msgid "A strange precious stone set in a platinum talisman, worn around the neck.  It is specialized for storing a considerable reserve of crystallized essence, and can be used to reload magical weapons more quickly if worn."
+msgstr "奇妙な石をはめ込んだ、首に掛けられる白金製のお守りです。大量のエッセンスを保存することに特化しており、身につけていると魔法の武器をより素早くリロードできます。"
+
+msgid "satchel of eternity"
+msgid_plural "satchels of eternity"
+msgstr[0] "無限の肩掛け鞄"
+
+msgid "A small fabric pouch decorated with ornate textile imagery depicting an otherworldly abstract pattern, further adorned with copper rings and clasps.  It is said to represent the search for greater knowledge of the unknown, focused by a drive to find utility and purpose in new discoveries.  It uses the power of a vortex to store a great volume of items that can be easily accessed, but the portal's instability means being struck can potentially draw attention from Beyond or cause you to teleport.  You can also use it to set aside certain items for even faster access, if it serves as a magical focus."
+msgstr "美しい異世界の模様が織られた、銅製のリングと留め金が付いた布製のポーチです。新たに発見した物の効果を探求することによって具現化した、未知の優れた知識を追い求める願望が形を成したものであると言われています。渦のエネルギーを利用することで大量のアイテムを保管し簡単にアクセスすることができますが、ポータルが不安定なため強い衝撃を与えると深淵に棲むものの注目を集めたりテレポートする可能性があります。また、魔法の焦点具として機能させるのであれば、特定のアイテムを準備してより早くアクセスするために使うこともできます。。"
+
+msgid "You feel like something is watching you…"
+msgstr "何かに見られているような気がします…"
+
+msgid "A strange aura of malice seems to briefly surround %1$s."
+msgstr "奇妙な悪意のオーラが一瞬、%1$sを包みました。"
+
+msgid "You feel yanked in a non-existent direction!"
+msgstr "あらぬ方向に引っ張られたような気がしました！"
+
+msgid "%1$s suddenly warps away!"
+msgstr "%1$sは唐突にどこかへ消えました!"
+
+msgid "Store what magical focus?"
+msgstr "どのような魔法の焦点具を保管しますか?"
+
+msgid "You store your %s"
+msgstr "あなたは%sを保管した。
