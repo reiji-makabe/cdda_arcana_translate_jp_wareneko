@@ -1,0 +1,57 @@
+msgid "strange pedestal with stone lever"
+msgstr "石のレバーがついた奇妙な台座"
+
+msgid ""
+"This is a pedestal of dark basalt-like stone, with unnatural alien resin "
+"clinging like ivy to the base.  A heavy protrusion of lighter, purple "
+"porphyry is set into it, resembling a lever for some unknown contraption."
+msgstr ""
+"暗い玄武岩のような石でできた台座には、不自然な異質な樹脂がツタのようにまとわ"
+"りついています。 その台座には、より薄い紫色のポーフィリーの重い突起があり、何"
+"か未知の装置のレバーのようです。"
+
+msgid "dark stone wall"
+msgstr "暗い石壁"
+
+msgid ""
+"A wall of bricks made out of what looks like basalt, chiseled into a "
+"perfectly smooth surface."
+msgstr ""
+"玄武岩のようなもので作られたレンガの壁は、完璧に滑らかな表面に削り出されてい"
+"ます。"
+
+msgid "engraved wall"
+msgstr "彫刻された壁"
+
+msgid ""
+"A wall of bricks made out of what looks like basalt, chiseled into a "
+"perfectly smooth surface."
+msgstr ""
+"玄武岩のようなもので作られたレンガの壁は、完璧に滑らかな表面に削り出されてい"
+"ます。"
+
+msgid "dimensional lens array platform"
+msgstr "次元レンズ配列プラットフォーム"
+
+msgid "A slightly-elevated panel overlooking the exotic machinery attached to it, with a ruined control panel hanging from the ceiling.  A faint glow permeates it, as though charged with otherworldly energy left bottled up and unreleased.  There might still be away to activate it, whatever it does.  Or just take it apart and hopefully salvage the reason for coming here."
+msgstr ""
+"取り付けられた珍しい機械を見下ろす小高いパネルと、天井からぶら下がっている廃"
+"墟の制御パネル。まるで別世界のエネルギーが封じ込められ解放されずに充満してい"
+"るかのようで、かすかな輝きがそこに浸透しています。 たとえそれが何であれ、それ"
+"を起動する方法はまだあるかもしれません。 あるいはそれを分解して、ここに来た目"
+"的を取り戻せればいいのですが......。"
+
+msgid "root wall"
+msgstr "根の壁"
+
+msgid "A wall of solid earth permeated by thick roots."
+msgstr "太い根が浸透した固い土の壁です。"
+
+msgid ""
+"A typical wall of sturdy brick construction, plastered over with drywall to "
+"give some semblance of comfort to this dreary place.  Paint job is the all "
+"too common and neutral off-white or cream color."
+msgstr ""
+"典型的な頑丈なレンガ造りの壁で、その上に乾式壁が塗られており、この殺風景な場"
+"所に多少の快適さを与えています。 塗装はあまりにも一般的で、特徴の無いオフホワ"
+"イトまたはクリーム色です。"

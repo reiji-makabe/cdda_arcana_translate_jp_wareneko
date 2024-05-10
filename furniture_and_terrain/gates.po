@@ -1,0 +1,11 @@
+msgid "You pull the lever…"
+msgstr "あなたはレバーを引きました… "
+
+msgid "The bricks crumble and vanish!"
+msgstr "レンガが崩れて消えていきます！"
+
+msgid "Shifting stone rises to block the way!"
+msgstr "ずれた石が道を塞ぐようにそびえ立ちます！"
+
+msgid "Nothing happens."
+msgstr "何も起こらない…"

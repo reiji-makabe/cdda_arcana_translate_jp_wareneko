@@ -1,0 +1,32 @@
+msgid "anomalous structure maze alteration"
+msgstr "異常構造変更迷路"
+
+msgid "anomalous structure finale"
+msgstr "異常構造終端"
+
+msgid "anomalous structure hallway alteration"
+msgstr "異常構造変更通路"
+
+msgid "shadowy heptagram"
+msgstr "影の七芒星"
+
+msgid "security sensor"
+msgstr "セキュリティセンサー"
+
+msgid "dimensional lens"
+msgstr "次元レンズ"
+
+msgid "crystallized portal"
+msgstr "結晶化したポータル"
+
+msgid "placed searing blast canister"
+msgstr "設置された灼熱のブラストキャニスター"
+
+msgid "placed wintry blast canister"
+msgstr "設置された極寒のブラストキャニスター"
+
+msgid "placed earthen blast canister"
+msgstr "設置された大地のブラストキャニスター"
+
+msgid "placed thunderous blast canister"
+msgstr "設置された雷のブラストキャニスター"

@@ -1,0 +1,113 @@
+msgid "upright weapon"
+msgstr "直剣"
+
+msgid ""
+"A strange sword hovering just above the ground.  The stairway underneath is "
+"blocked off by a solid barrier of light, but the sword should be easy to "
+"remove by examining it."
+msgstr ""
+"奇妙な剣が地面に突き刺さっています。その下にある階段は光の障壁によって封鎖さ"
+"れていますが、剣は簡単に抜き取れそうです。"
+
+msgid "glowing candle"
+msgstr "輝くろうそく"
+
+msgid ""
+"A single glowing candle, radiating with strange energy and projecting an "
+"opaque glowing barrier.  Examine it to disperse the barrier."
+msgstr ""
+"火の付いたろうそくから奇妙なエネルギーが放出され、輝く障壁を造り出していま"
+"す。ろうそくを片付ければ障壁は消えそうです。"
+
+msgid "flickering candle"
+msgstr "ちらつき燃えるろうそく"
+
+msgid "A single candle, wick emanating a ghostly flame and projecting a glowing barrier.  Examine it to disperse the barrier, sufficient force may also collapse it."
+msgstr ""
+"ぼんやりとした火が揺らめくろうそくは輝く障壁を造り出しています。ろうそくを片"
+"付ければ障壁は消えそうですが、あまり強い力を加えると壊してしまうかもしれませ"
+"ん。"
+
+msgid "stone hearth"
+msgstr "石の火焚き場"
+
+msgid "A structure of flowing, living stone molded into an open fireplace, the surface cracking and reforming periodically.  It offers modest space to burn offerings safely, or a flat surface sufficient for more morbid rituals."
+msgstr ""
+"石組み炉のような形状の、滑らかな天然石で作られた構造物です。その表面には定期"
+"的にひびが入っては自動的に修復されています。供物を安全に燃やすための適度な空"
+"間と、陰惨な儀式を執行するのに十分な広い平面が確保できます。"
+
+msgid "forest bedding"
+msgstr "森のベッド"
+
+msgid "A covering of twisted, warped, yet unnaturally green leaf litter from some unknown forest floor, with tangled spikes of molded stone and branches overhead.  Better than sleeping on open ground under a bare sky, at least."
+msgstr ""
+"形を変える石と枝が絡み合って凸凹の天井を構成し、床には見たこともない不自然に"
+"鮮やかな緑色の葉が薄く敷かれています。少なくとも青空の下に何も敷かず横になる"
+"よりは寝心地が良さそうです。"
+
+msgid "molded stone wall"
+msgstr "成形された石の壁"
+
+msgid "A wall made of interlocked spires of shifting stone, earth, and unearthly plant roots, molding and clinging to the otherwise untouched ground the structure grows from.  Every so often the flowing stone cracks and crumbles only to mend and resolidify itself."
+msgstr ""
+"形を変える石や土、超自然的な植物の根が絡まり合って作られた壁です。根は手つか"
+"ずの地面にまとわりついて変形し、壁を成長させます。"
+
+msgid "woven gate"
+msgstr "編まれた門"
+
+msgid "A heavy curtain of strange vines, branches, and living stone.  It moves with surprising ease at your touch, flowing to weave its structure in and out of the surrounding mass of molded earth."
+msgstr ""
+"奇妙な蔦と枝、そして形を変える石で作られた重厚な幕です。手で触れると周囲の大"
+"地に沿って構造を変え、驚くほど簡単に開きます。"
+
+msgid "open woven gate"
+msgstr "編まれた門(開)"
+
+msgid "A heavy curtain of strange vines, branches, and living stone.  It moves with surprising ease at your touch, flowing to weave its structure in and out of the surrounding mass of molded earth.  It is currently doing exactly that, giving the impression of an inviting, if unusual, doorway."
+msgstr ""
+"奇妙な蔦と枝、そして形を変える石で作られた重厚な幕です。手で触れると周囲の大"
+"地に沿って構造を変え、驚くほど簡単に開きます。門は今まさに開いており、異界へ"
+"と誘っているような印象を受けます。"
+
+msgid "candle pedestal"
+msgstr "燭台"
+
+msgid ""
+"A short stone pedestal with an ornate candle holder firmly mounted atop it."
+msgstr "凝った装飾のろうそく立てがついた、背の低い石造りの台座です。"
+
+msgid "lit candle pedestal"
+msgstr "点火した燭台"
+
+msgid "A short stone pedestal with an ornate candle holder firmly mounted atop it.  A eerie blue flame lingers where one would expect a candle to be mounted, giving off a soothing glow."
+msgstr ""
+"凝った装飾のろうそく立てがついた、背の低い石造りの台座です。不気味な青い炎"
+"が、キャンドルが取り付けられていると思われる場所に残り、心を落ち着かせる光を"
+"放ちます。"
+
+msgid "shimmering barrier"
+msgstr "揺らめく障壁"
+
+msgid "A strange wavering distortion in the air, offering the faintest hint of illumination.  It hardens into a crackling wall of light when struck, examining it will allow you to dismiss it."
+msgstr ""
+"空気の一部が揺らめいて歪み、ほのかな光を放っています。手をかざすとパチパチと"
+"火花のような光を発する壁のようなものに触れますが、優しく押し返されます..."
+
+msgid "twitching frond"
+msgstr "引き攣ったシダ"
+
+msgid "A spine like the antenna of a moth juts from the ground, swaying gently in the air.  Every so often, a cascade of energy arcs along it and discharges into the ceiling."
+msgstr ""
+"ガの触覚のような突起が地面から生え、風に乗って穏やかに揺れています。時折電撃"
+"の渦が発生しては立ち昇っていきます。"
+
+msgid "deployed transmutation crucible"
+msgstr "展開された変換のるつぼ"
+
+msgid "Shifting, flowing stones slithering around a strange stone crucible.  Serves as an anvil and crucible for metalworking, along with serving as a workbench and assisting with alchemy.  Can be reclaimed by examining it.\n\nProvides the following:\n* Level 3 anvil quality.\n* Level 2 boiling quality.\n* Level 2 chemical making quality.\n* Level 1 containing quality.\n* Level 1 food cooking quality.\n* Level 2 clean surface quality.\n* Additionally serves as a crucible."
+msgstr ""
+"奇妙な石造りのるつぼの周りを、移り変わる流れる石がそそり立っています。 金属加"
+"工用の金床やるつぼとして、また作業台や錬金術の補助としても役立つでしょう。 調"
+"べることで回収できます。"

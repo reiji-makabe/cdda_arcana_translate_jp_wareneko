@@ -1,0 +1,96 @@
+msgid "The living emptiness wavers and crumbles."
+msgstr "生きている虚無は揺らぎ、崩れ去りました。"
+
+msgid "The fabric of reality around you weaves itself back together."
+msgstr "あなたを取り巻く現実の布が再び編み上がります。"
+
+msgid "The portal flickers and collapses into a floating sliver of energy!"
+msgstr "ポータルが明滅し、エネルギーの断片となって浮遊します！"
+
+msgid "The embers die down around you."
+msgstr "燃え盛る炎が、あなたの周りで静まり返っていきます。"
+
+msgid "Saplings bloom vibrantly."
+msgstr "苗木が生き生きと咲き誇ります。"
+
+msgid "Plant life grows wild over the ground."
+msgstr "植物が地面を覆い尽くしました。"
+
+msgid "The ground shifts and crumbles, grass growing from the cracks."
+msgstr "大地が揺らめいてひび割れ、その隙間から植物が芽生えました。"
+
+msgid "Soft earth shifts and forms a barrier."
+msgstr "柔らかな土が蠢き、障壁を作りました。"
+
+msgid "The root wall decays and crumbles."
+msgstr "根の壁が腐敗し、崩れていきます。"
+
+msgid "Solid stone forms over bare flooring."
+msgstr "剥き出しのフローリングの上に無垢の石が敷き詰められました。"
+
+msgid "The stone crumbles and evaporates."
+msgstr "石が砕けて蒸発しました。"
+
+msgid "The fungal corruption erupts into a shower of blue embers!"
+msgstr "真菌は青く燃え上がり、焼き尽くされました！"
+
+msgid "The egg sacks swell and burst from the unearthly heat!"
+msgstr "卵塊が熱を受けて膨張し、破裂しました！"
+
+msgid ""
+"The unnatural outgrowths are cauterized bare, in a spray of green sparks!"
+msgstr "奇妙な有機物は緑色の火花を立てて燃え上がり、焼き尽くされました！"
+
+msgid "The door swings open silently."
+msgstr "ドアが静かに開きました。"
+
+msgid "The boards keeping the door sealed decay and crumble away."
+msgstr "ドアを密閉していた板が腐り、崩れました。"
+
+msgid "A secret passage is revealed in the wall."
+msgstr "壁に秘密の通路が現れました。"
+
+msgid "The steel barrier crumbles into nothingness."
+msgstr "鋼鉄の障壁が無に帰します。"
+
+msgid "The bars swing open."
+msgstr "バーがスイングして開きました。"
+
+msgid "The gate moves of its own accord, opening the way forward."
+msgstr "ゲートがひとりでに動き、道が開かれました。"
+
+msgid "The window is forced open."
+msgstr "窓が強制的に開かれました。"
+
+msgid ""
+"The window's reinforcements rust away, the window is silently forced open."
+msgstr "窓の補強材が錆びつき、静かに、そして強制的に開かれました。"
+
+msgid ""
+"The obstructions across the window decay and crumble away, the glass "
+"disintegrating soon afterward."
+msgstr "窓を横切る障害物は朽ちて崩れ去り、ガラスはほどなく崩壊していきます。"
+
+msgid "The manhole cover rusts and decays away, falling into the hole."
+msgstr "マンホールの蓋が錆びつき、朽ち果てて穴に落ちました。"
+
+msgid "The resin cage crumbles away."
+msgstr "樹脂製の檻が崩れ去ります。"
+
+msgid "The obstacle crumbles to dust."
+msgstr "障害は塵と化しました。"
+
+msgid "Nails and wood decay until the crate is left unsealed."
+msgstr "釘や木材が腐敗し、木箱はもはや密閉されていません。"
+
+msgid "Mechanisms rust away until the safe silently swings open."
+msgstr "機構が錆付き、金庫が静かに開きました。"
+
+msgid "The vending machine's facade erodes and decays to reveal its contents."
+msgstr "自動販売機の正面が侵食され、朽ち果て、中身が見えて来ました。"
+
+msgid "Rubble wavers and evaporates to clear a path."
+msgstr "瓦礫が揺らぎ、蒸発して道を切り開きました。"
+
+msgid "The ground shifts."
+msgstr "大地が変貌しました。"

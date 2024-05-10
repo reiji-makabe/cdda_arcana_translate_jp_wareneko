@@ -1,0 +1,17 @@
+msgid "Strange Grove"
+msgstr "奇妙な森"
+
+msgid "Sanguine Ruins"
+msgstr "鮮血教団の廃墟"
+
+msgid "Impact Site"
+msgstr "衝突跡"
+
+msgid "Curious Structure"
+msgstr "奇妙な建物"
+
+msgid "Arcanist Basement"
+msgstr "秘術師の地下室"
+
+msgid "Cathedral"
+msgstr "大聖堂"

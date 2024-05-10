@@ -1,0 +1,296 @@
+msgid "Apprentice's Notes"
+msgid_plural "Apprentice's Notes"
+msgstr[0] "本(学習/弟子の覚書)"
+
+msgid "A series of handwritten notes by a student of some esoteric order.  At first the subject seems to be simple religious rituals, but it soon delves into more …anomalous practices.\n\"In time, my eyes will be opened.  They called it The Gift, but all who draw breath can partake of it.  There is no innate talent, no quirk of bloodline, only discipline and patience…\""
+msgstr ""
+"数冊に及ぶ、秘密教団の徒弟が記したと思われる手書きの覚え書きです。冒頭は単純"
+"な宗教的儀式についての記録ですが、読み進むにつれて、儀式は次第にただならぬ様"
+"相を呈し始めます...\n"
+"「やがて、私は開眼するだろう。彼らはそれを『天賦の才』と言ったが、これは生き"
+"ている者ならば誰でも手に入るものだ。生まれつきの才能も、血統も関係ない。必要"
+"なのは規律と忍耐だ...」"
+
+msgid "History of Alchemy"
+msgid_plural "Histories of Alchemy"
+msgstr[0] "本(学習/錬金術の歴史)"
+
+msgid "A series of translated, annotated excerpts from several ancient books on the concept of alchemy.  This book presents an unconventional interpretation of the works discussed, haphazardly segueing into the author's own failed attempt to create the \"lapis philosophorum\" and \"alkahest\".  Some of the unconventional chemistry discussed might still be useful.\n\"Through all the cycles of putrefaction and purification, we have fallen short of refinement into the Rubedo stage.  We are missing a catalyst, something even purer than gold, energy embodied in matter…\""
+msgstr ""
+"何冊かの古い錬金術の本から一部を抜粋し、注釈付きで翻訳した書物です。既存の議"
+"論を大胆に逸脱した解釈が多く見られ、編者自身が「ラピス･フィロソフォルム」や"
+"「アルカエスト」を錬金しようと試み失敗した顛末が、本文の間に唐突に挟まれてい"
+"ます。科学に関する型破りな方法論のいくつかは、何かの役に立つかもしれませ"
+"ん。\n"
+"「腐敗と浄化のサイクルを完全に終えたが、ルベドの段階へ至るには精錬が足りな"
+"い。金よりも純粋な触媒、物質自体が内包しているエネルギーが足りない...」"
+
+msgid "The Six Pillars"
+msgid_plural "The Six Pillars"
+msgstr[0] "本(学習/六柱)"
+
+msgid "A book depicting six strange symbols on the cover.  The text uses mythological concepts and metaphors to disguise magical formulae, concealing its knowledge within stories of an otherworldly pantheon.\n\"Mother of the sun.  Maiden of moonlit storms.  Order woven into earth itself.  Chaos reveling in nature.  Four horsemen embodied as one.  Defiance and strife.  You are the keepers of all I know…\""
+msgstr ""
+"表紙に6つの奇妙な記号が描かれた本です。一見すると神話的な概念や隠喩、異界の"
+"神々の物語として読める文章の中に、呪文や知識が隠されています。\n"
+"「太陽の母、月明かりに照らされた嵐の乙女。大地に織り込まれた秩序。本質を享受"
+"する混沌。一なるものとして体現された4人の騎手。反抗と闘争。汝は我が知るもの全"
+"ての守り手...」"
+
+msgid "Sanguine Codex"
+msgid_plural "Sanguine Codices"
+msgstr[0] "本(学習/鮮血の写本)"
+
+msgid "A book written in dark, brown ink that almost resembles dried blood.  It illustrates several painful-looking rituals for drawing powerful energy from the blood of living creatures, the practices of an order of blood mages.\n\"There is power in life itself.  There is a struggle, turmoil and chaos in it as well.  To follow The Path requires making proper use of said disharmony, even as one draws power from life…\""
+msgstr ""
+"まるで乾燥した血液のようにも見える暗褐色のインクで、血術師が習得するとされ"
+"る、生物の血から強力なエネルギーを引き出すための痛々しい儀式の内容が記されて"
+"います。\n"
+"「命はそのものが力をもつ。闘争、騒乱、混沌もまた然り。道を辿るためには、これ"
+"らの不協和を適切に利するとともに、命から力を引き出すことが必要だ...」"
+
+msgid "The Cleansing Flame"
+msgid_plural "The Cleansing Flame"
+msgstr[0] "本(学習/浄化の炎)"
+
+msgid "A book written by some esoteric religious order, dedicated to destroying the otherworldly things intruding upon this realm.  The tools of their trade rely on a sanctioned form of magic, using \"consecrated\" essence they deemed safe to use.\n\"To bring justice to those who would endanger humanity, if we must.  To mend the growing wound In The Veil Between Worlds, if we can.  To guard and guide, so that a dangerous path may be avoided, so we shall.  So long as the Sun shines upon the Earth.\""
+msgstr ""
+"この世界に侵入する異界の存在を破壊することに人生の全てを捧げた秘密教団によっ"
+"て記された書物です。この教団で使うことを許可されている魔術的な道具は、「聖"
+"化」したエッセンスを糧としており、より安全に運用できるようです。\n"
+"「人類を危険に晒すものに正義を下せ。可能ならば、広がりつつあるこの世界の帳の"
+"傷を修復せよ。危険な道が開かれぬよう、守り、導け。太陽が大地を照らす限り。」"
+
+msgid "Oaths to the Chalice"
+msgid_plural "Oaths to the Chalice"
+msgstr[0] "本(学習/聖杯への誓い)"
+
+msgid "A strange book with a trident motif on the cover, describing the morbid rituals of some otherworldly cult, preaching of He From Beyond The Veil.  The level of detail these rituals go into is disturbing, yet informative.\n\"Through my visions, I saw rolling fog sweep across the valleys of a thousand worlds.  I witnessed the decay of countless cities, built by endless unnamed things.  And there, shadows coalesced into form, a presence to guide me…\""
+msgstr ""
+"三又槍のような図案が表紙の奇妙な本です。「帳の彼方の神」の教えとされる、異界"
+"に属するカルトの恐ろしい儀式について記されています。読み進める程に儀式の内容"
+"は不穏なものになっていきますが、役には立ちそうです。\n"
+"「我が幻視により、線の世界の谷間を流れ広がる霧が視えた。無数の名も無きものが"
+"創り出した無数の都市の崩壊が視えた。そして、影が形を成し、私を導く存在となっ"
+"た...」"
+
+msgid "A Story in Shadow"
+msgid_plural "A Story in Shadow"
+msgstr[0] "本(学習/影の物語)"
+
+msgid "A book discussing the histories of a few peculiar cults and religious orders, and their conflicts during the years up until shortly before the cataclysm.  It describes a number of peculiar rituals and concepts based on the philosophies of the major groups mentioned, along with musing on their respective strengths and flaws.\n\"Athame, hammer, and chalice.  Stalking and warring over trifling powers, as the Blind World pursued the End of All.  All things are, and shall be, as was written…\""
+msgstr ""
+"いくつかの奇妙なカルト集団や修道会の歴史と、大変動が起こる直前までの数年間に"
+"それらの団体が起こした抗争について論じている本です。それぞれの宗教団体の教義"
+"に基づいた長所や短所、特有の儀式や思想が紹介されています。\n"
+"「アサメ、鎚、聖杯。盲目の世界が万物の終焉を求めたとき、些細な力を欲して蔓延"
+"り争う...」"
+
+msgid "To Master the Unknown"
+msgid_plural "To Master the Unknown"
+msgstr[0] "本(学習/未知を統べる)"
+
+msgid "A book describing several otherworldly creatures and their origins, or at least conjecture on those origins.  Stranger still, it describes experiments in summoning and  …controlling them?\n\"In the absence of an adequate catalyst, those who dwell Beyond are not easily called into service.  What slips through the cracks most readily is a mere shadow, a reflection of shadows even, given form that can be tamed…\""
+msgstr ""
+"異界の生物とその起源について憶測混じりに記された本です。奇妙なことに、実験に"
+"基づいた召喚や制御の方法までもが解説されています。\n"
+"「適切な触媒がなければ、深淵に棲むものは容易には召喚できない。亀裂をすり抜け"
+"るのは単なる影であり、形を与えれば手懐けることも可能だ...」"
+
+msgid "lab journal-Quinn"
+msgid_plural "lab journals-Quinn"
+msgstr[0] "研究資料:クイン"
+
+msgid "This hefty binder contains numerous reports concerning Anomalous Materials research, and experiment logs involving various otherworldly phenomena.  Some effort was made to hypothesize on the physics involved behind the events that occurred, though the writing's tone conveys a growing frustration with the increasingly supernatural nature of each discovery…"
+msgstr "この重厚なバインダーには、異常物質の研究に関する多数のレポートと、さまざまな異世界の現象を含む実験ログが含まれています。文面のトーンはそれぞれの発見がますます超自然的な側面を増すことに対する苛立ちがつのる様を伝えて来ますが、起こった出来事の背後にある物理学的な仮設を立てるための努力もまた伝わって来ます..."
+
+msgid "tattered note"
+msgstr "ぼろぼろの紙片"
+
+msgid "An old, worn scrap of paper with writing scrawled on it."
+msgstr "ぼろぼろに摺り切れた古い紙切れです。何かが殴り書きしてあります。"
+
+msgid "blood-stained note"
+msgstr "血で汚れた紙片"
+
+msgid "An scrap of paper marred by old, dried blood."
+msgstr "血で黒く汚れた紙切れです。血は乾いています。"
+
+msgid "strange note"
+msgstr "奇妙な紙片"
+
+msgid "A sheet of paper, with peculiar writing on it."
+msgstr "狂気じみた走り書きがされた紙片です。"
+
+msgid "singed note"
+msgstr "焦げた紙片"
+
+msgid "A piece of paper with writing on it, edges scorched as if it was hastily rescued from the fireplace."
+msgstr ""
+"何かが書き記された紙片です。火の中から慌てて拾い上げたかのように、ふちが焼け"
+"焦げています。"
+
+msgid "old letter"
+msgstr "古い手紙"
+
+msgid "A weathered old piece of paper."
+msgstr "風化した古い手紙です。"
+
+msgid "folded note"
+msgstr "折り畳まれた手紙"
+
+msgid "A neatly-folded note."
+msgstr "きちんと折り畳まれた手紙です。"
+
+msgid "strange map"
+msgstr "奇妙な地図"
+
+msgid "This is a hand-drawn map of the local area.  Whoever created this has marked several places seemingly in the middle of nowhere.  Using it will mark these strange locations on your map."
+msgstr ""
+"この地域の手書きの地図です。地図を描いた者によって、一見辺鄙なだけの地点に印"
+"がつけられています。使用すると地図に印された奇妙な地点を書き写します。"
+
+msgid "You add strange temples, ruined shrines, curious structures, impact sites, sanguine ruins, and strange groves to your map."
+msgstr ""
+"奇妙な寺院、廃寺院、奇妙な建物、衝突跡、奇怪な神殿、奇妙な森の位置をマップに"
+"書き込みました。"
+
+msgid "alchemical reference notes"
+msgid_plural "sets of alchemical reference notes"
+msgstr[0] "錬金術師の研究資料"
+
+msgid "An assortment of neatly-folded papers filled with esoteric chemical formulae and historical footnotes, some of which seem to be excerpts from old texts in Greek, Latin, Arabic, and even Chinese.  It details the findings and practices of an experienced alchemist.  It can be used instead of History of Alchemy for recipes that require the book as a reference tool."
+msgstr ""
+"難解な化学式とギリシャ語、ラテン語、アラビア語、中国語の古文書から抜粋された"
+"歴史的な文書がびっしりと書かれた紙束です。経験豊富な錬金術師の知識と実践が詳"
+"しく書かれており、見識の深い者以外が活用するのは難しそうです。本(学習/錬金術の歴史)を必要とするレシピで代わりにできます。"
+
+msgid "scribe's reference notes"
+msgid_plural "sets of scribe's reference notes"
+msgstr[0] "筆記士の研究資料"
+
+msgid "A handful of rolled up papers, filled with quotations and crude sketches of strange religious scenery.  It details the studies of an experienced scribe well-versed in knowledge disguised as exotic religious poetry.  It can be used instead of The Six Pillars for recipes that require the book as a reference tool."
+msgstr ""
+"引用句や奇妙な宗教的風景の簡単なスケッチがぎっしり描かれた巻物です。異国風の"
+"宗教史に偽装されてはいますが、内容は知識と経験が豊富な筆記士の研究成果であ"
+"り、見識の深い者以外が活用するのは難しそうです。本(学習/弟子の覚書)を必要とするレシピで代わりにできます。"
+
+msgid "sanguinist's reference notes"
+msgid_plural "sets of sanguinist's reference notes"
+msgstr[0] "鮮血教団の研究資料"
+
+msgid "A dog-eared, ragged collection of papers, filled with outlines of morbid rituals and macabre references on matters of blood.  It details the studies of an experienced blood mage.  It can be used instead of Sanguine Codex for recipes that require the book as a reference tool."
+msgstr ""
+"病的な儀式や血に関する気味の悪い引用文がぎっしりと書き込まれた、みすぼらしい"
+"紙束です。経験豊富な血術師の研究成果が詳しく書かれており、見識の深い者以外が"
+"活用するのは難しそうです。本(学習/鮮血の写本)を必要とするレシピで代わりにできます。"
+
+msgid "Cleansing Flame reference notes"
+msgid_plural "sets of Cleansing Flame reference notes"
+msgstr[0] "浄化の炎の参考資料"
+
+msgid "A carefully-gathered collection of papers outlining sacred rites and vital practices, mixing various religious practices attested to a order dedicated protecting humanity from dangerous magic.  It details the studies of an experienced mage hunter.  It can be used instead of The Cleansing Flame for recipes that require the book as a reference tool."
+msgstr ""
+"危険な魔術から人類を守る教団が用いる、様々な宗教儀式を組み合わせた神聖で重要"
+"な呪術を概説した研究論文集です。熟練のメイジハンターによる研究成果がまとめら"
+"れており、見識の深い者以外が活用するのは難しそうです。本(学習/浄化の炎)を必要とするレシピで代わりにできます。"
+
+msgid "occult reference notes"
+msgid_plural "sets of occult reference notes"
+msgstr[0] "魔術の研究資料"
+
+msgid "A carefully-preserved assortment of papers, mostly filled with hymns to an otherworldly god and other unusual quotations.  On further reading it becomes evident that each song and passage holds ritual purpose, detailing the studies of an experienced scholar of this unearthly faith.  It can be used instead of Oaths to the Chalice for recipes that require the book as a reference tool."
+msgstr ""
+"異界の神をたたえる歌などの珍しい引用文がぎっしりと書かれた、丁寧に保存されて"
+"いたであろう紙束です。それぞれの歌詞や節は儀式をする上で重要な意味があるらし"
+"く、書かれている解説はこの奇妙な信仰について詳しい学者によるものであり、 見識"
+"の深い者以外が活用するのは難しそうです。本(学習/聖杯への誓い)を必要とするレシピで代わりにできます。"
+
+
+msgid "arcane reference notes"
+msgid_plural "sets of arcane reference notes"
+msgstr[0] "秘術の研究資料"
+
+msgid "A mish-mash of papers filled with all manner of strange rituals seemingly from various contradictory sources. Whoever wrote this collection was a student of a well-traveled arcanist, filling their own research with essential information and reminders for the presumably well-learned author's benefit.  It can be used instead of A Story in Shadow for recipes that require the book as a reference tool."
+msgstr ""
+"様々な疑わしい情報源から寄せられた奇妙な儀式に関する論文がぎっしり詰まった紙"
+"束です。この論文集をまとめたのがどこの放浪の秘術師の弟子なのかは分かりません"
+"が、自身の研究に必要な情報が雑多に詰め込まれており、見識の深い者以外が活用す"
+"るのは難しそうです。本(学習/影の物語)を必要とするレシピで代わりにできます。"
+
+msgid "summoner's reference notes"
+msgid_plural "sets of summoner's reference notes"
+msgstr[0] "召喚士の研究資料"
+
+msgid "A neatly-ordered collection of papers, filled with strange symbols and rambling writing.  At several points the text is interrupted by detailed sketches of disturbing otherworldly horrors.  It details the findings of an experienced summoner.  It can be used instead of To Master the Unknown for recipes that require the book as a reference tool."
+msgstr ""
+"奇妙な記号やとりとめのない文章がぎっしりと書かれた、きちんとまとめられた紙束"
+"です。所々で文章は途切れ、恐怖を煽る絵図が書き加えられています。経験豊富な召"
+"喚士の発見を書き記した資料であり、見識の深い者以外が活用するのは難しそうで"
+"す。本(学習/未知を統べる)を必要とするレシピで代わりにできます。"
+
+msgid "trade arrangements"
+msgid_plural "trade arrangements"
+msgstr[0] "取引目録"
+
+msgid "A hand-written inventory of essential tools and supplies, alongside a list of various surplus items, written by Sofia."
+msgstr "ソフィアが書き記した、様々な余剰アイテムと必要な消耗品の目録です。"
+
+msgid "receipt of trade agreement"
+msgid_plural "receipt of trade agreement"
+msgstr[0] "取引承諾書"
+
+msgid "A hastily-typed printout confirming the arrangements set up between the Free Merchants and the survivors in the rural church."
+msgstr ""
+"自由商人と農村協会の生存者たちの間で交わされた協定に関係する、急いでプリント"
+"アウトされた承諾書です。"
+
+msgid "The Path of Sword and Hammer"
+msgid_plural "The Path of Sword and Hammer"
+msgstr[0] "本(武術/剣と鎚の道)"
+
+msgid "A handwritten copy of a codex detailing the methods of fighting used by an eccentric order, hunters of the wicked and otherworldly."
+msgstr "邪悪や異世界の存在を狩る、風変わりな騎士団が使う武術について書き記した手書きの写本です。"
+
+msgid "The Path of Scourging Claws"
+msgid_plural "copies of The Scourging Claws"
+msgstr[0] "学習本(災禍の爪の道)"
+
+msgid "A handwritten copy of a codex detailing the methods of fighting used by the hunters of hunters, elite assassins from an order of blood mages."
+msgstr "狩人の中の狩人、鮮血教団の暗殺者が使う武術について書き記した手書きの写本です。"
+
+msgid "inscribed clay tablet"
+msgid_plural "inscribed clay tablets"
+msgstr[0] "刻印された石板"
+
+msgid "A small clay tablet, inscribed with discourses on otherworldly matters in eccentric writing.  Much of it is near-illegible and pertains more to philosophy than any practical matters, but the right person might be able to gleam something useful out of it."
+msgstr ""
+"風変わりな文章で異世界の事柄についての説話が刻まれた小さな粘土板です。多くは"
+"ほとんど判読できず、実際的な問題よりも哲学に関係していますが、知識のある人物であれば"
+"何か有用な情報を引き出せるかもしれません。"
+
+msgid "Compendium Sacramenti Sanguinei"
+msgid_plural "Compendium Sacramenti Sanguineis"
+msgstr[0] "学習(抄録:血の秘蹟)"
+
+msgid "A leather-bound notebook, its contents containing notes and sketches both hand-written, seemingly by at least two different people, and what seems to be woodblock-print copies from some other work of literature.  Morbid as its subject matter is, various fragments of events and rituals summarized and expounded upon, to actually glean anything useful out of its pages would require extensive research from someone well-versed in the anomalous activities detailed within."
+msgstr ""
+"革製のノートで、中身は少なくとも2人の人間による手書きのメモやスケッチ、そして"
+"何かの文献の木版画のようなものが入っています。 その内容は、様々な出来事や儀式"
+"の断片を要約して説明したもので、何か役に立つことを得ようとするならば、この中"
+"に書かれている異常な活動に精通した人物による広範囲な調査が必要となるでしょ"
+"う。"
+
+msgid "laboratory note"
+msgid_plural "laboratory notes"
+msgstr[0] "研究ノート"
+
+msgid "A hastily-scribbled note."
+msgstr "走り書きのメモです。"
+
+msgid "Z-07 Engraved Plate"
+msgid_plural "Z-07 Engraved Plates"
+msgstr[0] "Z-07刻印プレート"
+
+msgid "A warped sheet of exotic metal, covered in esoteric engravings.  The patterns depicted on it resemble astrological imagery and alchemical formulas, with fragments of legible writing encircling the outer edge of the design.  On closer inspection, parts of the engraving appear to resemble technical drawings and schematics for the very machine it was torn from, either for some ritual purpose that helped give it life, or for some unknown research purpose.  Someone skilled in otherworldly knowledge might be able to glean something useful from this."
+msgstr "難解な彫刻で覆われた歪んだ金属板です。その模様は占星術の象徴図や錬金術の式を描写しており、外縁に書いてある文字は断片的に読み取れそうです。よく見てみると、この彫刻の一部は

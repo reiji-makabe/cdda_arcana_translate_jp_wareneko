@@ -1,0 +1,52 @@
+msgid "Electrothermal Arc Projector CBM"
+msgid_plural "Electrothermal Arc Projector CBMs"
+msgstr[0] "CBM: 電熱アークプロジェクター"
+
+msgid "A small implant for the left arm that fires bolts of exotic energy that bounces between targets, electrocuting and immolating anything it hits."
+msgstr ""
+"左腕に装着する小型インプラントで、異界のエネルギーのボルトを発射し、ターゲッ"
+"ト間で跳ね返り、当たったものを感電させ、焼き尽くします。"
+
+msgid "Rift Focus Projector CBM"
+msgid_plural "Rift Focus Projector CBMs"
+msgstr[0] "CBM: リフトフォーカスプロジェクター"
+
+msgid "A small implant for the right hand that creates small holes in reality, focused into beams of otherworldly energy.  While potent, robotic targets and some otherworldly creatures are immune to it."
+msgstr ""
+"現実の空間に小さな穴を開け、異世界の奇妙なエネルギーを集中させビームとして打"
+"ち出す右手用の小型インプラントです。 強力ですが、ロボットや一部の異世界の生物"
+"には効果がありません。"
+
+msgid "Essence Surge Cell CBM"
+msgid_plural "Essence Surge Cell CBMs"
+msgstr[0] "CBM: エッセンスサージセル"
+
+msgid "A small generator that converts essence into bionic power, with four separate chambers for different essence types.  Able to hold 5 motes of crystallized essence, 50 motes of standard essence, 150 motes of blood essence, and 1500 motes of dull essence."
+msgstr "エッセンスを電力に変換する小さな発電機です。エッセンスの種類に応じて4つのチャンバーに分かれています。それぞれ、結晶化エッセンスを5つ、エッセンスを50、エッセンス(血)を150、エッセンス(濁)を1500貯蓄できます。"
+
+msgid "Temporal Stimulation CBM"
+msgid_plural "Temporal Stimulation CBMs"
+msgstr[0] "CBM: 時間的刺激"
+
+msgid "Using exotic energies the user can distort time to a limited extent, channeled to increase speed and stamina, at the cost of increased fatigue."
+msgstr ""
+"奇妙なエネルギーを使用し、限られた範囲で時間を歪め、速度とスタミナを高めるこ"
+"とができます。使用すると疲労感が増します。"
+
+msgid "Life Sign Suppression CBM"
+msgid_plural "Life Sign Suppression CBMs"
+msgstr[0] "CBM: ライフサイン抑制"
+
+msgid "A bionic that creates a disruptive energy that conceals the user's life force, rendering them invisible to the undead, at the cost of steadily sickening the body and attracting hostility from natural wildlife.  Zombies will still be able to hear you, however."
+msgstr "破壊的なエネルギーを生み出し使用者の生命力を隠し、アンデッドが感知できないようにするCBMです。代償として使用している間は着実に体を蝕み、自然の野生生物から敵意を引き付けるようになる上、依然としてゾンビはあなたの立てる音を聞きつけます。"
+
+msgid "Kinetic Amplifier CBM"
+msgid_plural "Kinetic Amplifier CBM"
+msgstr[0] "CBM: 動電型増幅器"
+
+msgid "An implant that can weaponize kinetic energy through anomalous means.  When deployed it serves as an unarmed weapon that can grant a powerful knockback effect that amplifies the user's damage and armor penetration.  As a side effect, its strikes have a chance of releasing a blinding flashbang effect on impact."
+msgstr ""
+"運動エネルギーを異常な手段で武器化することができるCBMです。展開すると素手武器"
+"として機能し、使用者のダメージとアーマー貫通力を増幅させる強力なノックバック"
+"効果を付与することができます。副次的効果としてその打撃の衝撃時にまばゆい閃光"
+"効果を放つ可能性があります。"
