@@ -153,4 +153,4 @@ msgid "Store what magical focus?"
 msgstr "どのような魔法の焦点具を保管しますか?"
 
 msgid "You store your %s"
-msgstr "あなたは%sを保管した。
+msgstr "あなたは%sを保管した。"

@@ -23,13 +23,6 @@ msgstr ""
 msgid "engraved wall"
 msgstr "彫刻された壁"
 
-msgid ""
-"A wall of bricks made out of what looks like basalt, chiseled into a "
-"perfectly smooth surface."
-msgstr ""
-"玄武岩のようなもので作られたレンガの壁は、完璧に滑らかな表面に削り出されてい"
-"ます。"
-
 msgid "dimensional lens array platform"
 msgstr "次元レンズ配列プラットフォーム"
 

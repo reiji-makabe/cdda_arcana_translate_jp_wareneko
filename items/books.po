@@ -293,4 +293,4 @@ msgid_plural "Z-07 Engraved Plates"
 msgstr[0] "Z-07刻印プレート"
 
 msgid "A warped sheet of exotic metal, covered in esoteric engravings.  The patterns depicted on it resemble astrological imagery and alchemical formulas, with fragments of legible writing encircling the outer edge of the design.  On closer inspection, parts of the engraving appear to resemble technical drawings and schematics for the very machine it was torn from, either for some ritual purpose that helped give it life, or for some unknown research purpose.  Someone skilled in otherworldly knowledge might be able to glean something useful from this."
-msgstr "難解な彫刻で覆われた歪んだ金属板です。その模様は占星術の象徴図や錬金術の式を描写しており、外縁に書いてある文字は断片的に読み取れそうです。よく見てみると、この彫刻の一部は
+msgstr "難解な彫刻で覆われた歪んだ金属板です。その模様は占星術の象徴図や錬金術の式を描写しており、外縁に書いてある文字は断片的に読み取れそうです。よく見てみると、この彫刻の一部はその機械から引き裂かれたもので、その機械の技術図面や設計図のように見えます。どうやらこの機械に生命を与えるか、あるいは何らかの未知の研究目的のために作成されたもののようです。異界の知識に精通した人なら、これから何か有益な情報を得ることができるかもしれません..."
