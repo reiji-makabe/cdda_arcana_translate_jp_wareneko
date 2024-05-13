@@ -1,5 +1,5 @@
-NAME := cdda_arcana_translate_jp.mo
-FIRST := Arcana_translate.po
+NAME := cataclysm-dda.mo
+FIRST := cataclysm-dda.po
 FMT := msgfmt
 
 RM := rm -rf

@@ -1,0 +1,14 @@
+msgid "arcana note base"
+msgstr "秘術のメモ(基礎)"
+
+msgid "magic sign base"
+msgstr "魔力結晶(基礎)"
+
+msgid "scroll base"
+msgstr "巻物(基礎)"
+
+msgid "magic seal base"
+msgstr "印章(基礎)"
+
+msgid "essence surge part abstract"
+msgstr "エッセンス励起(抽象)"

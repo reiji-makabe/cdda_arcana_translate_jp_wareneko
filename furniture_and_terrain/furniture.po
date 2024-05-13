@@ -95,9 +95,6 @@ msgstr ""
 "空気の一部が揺らめいて歪み、ほのかな光を放っています。手をかざすとパチパチと"
 "火花のような光を発する壁のようなものに触れますが、優しく押し返されます..."
 
-msgid "twitching frond"
-msgstr "引き攣ったシダ"
-
 msgid "A spine like the antenna of a moth juts from the ground, swaying gently in the air.  Every so often, a cascade of energy arcs along it and discharges into the ceiling."
 msgstr ""
 "ガの触覚のような突起が地面から生え、風に乗って穏やかに揺れています。時折電撃"

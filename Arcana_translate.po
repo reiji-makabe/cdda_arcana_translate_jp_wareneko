@@ -1,8 +1,0 @@
-msgid ""
-msgstr ""
-"私用翻訳ファイル。改変自由・著作権放棄"
-"翻訳者:我猫"
-"連絡:igier012@gmail.com"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"以下の翻訳チーム (https://www.transifex.com/cataclysm-dda-translators/teams/2217/ja/)に連絡が取れないため新しく作りました。苦情が来たら消えます"

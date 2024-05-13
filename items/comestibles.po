@@ -1,0 +1,9 @@
+msgid "black potion"
+msgid_plural "black potions"
+msgstr[0] "水薬(黒)"
+
+msgid "A strange black liquid that smells like death itself.  The first step towards creating the elixir of life, allegedly.  Drinking this will rapidly recover pain, at the expense of temporary sluggishness."
+msgstr ""
+"死を具現化したような臭いがする、奇妙な黒い液体です。伝説によれば、不老不死の"
+"薬を製作するための第一歩だと言われています。一時的に体がだるくなりますが、苦"
+"痛を急速に回復させることができます。(効果:苦痛低下 副作用:速度低下)"

@@ -34,9 +34,6 @@ msgstr ""
 "を起動する方法はまだあるかもしれません。 あるいはそれを分解して、ここに来た目"
 "的を取り戻せればいいのですが......。"
 
-msgid "root wall"
-msgstr "根の壁"
-
 msgid "A wall of solid earth permeated by thick roots."
 msgstr "太い根が浸透した固い土の壁です。"
 
